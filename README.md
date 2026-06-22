@@ -1,5 +1,28 @@
 # Belarus Production Calendar
 
+## Русская версия
+
+Публичный производственный календарь Республики Беларусь в формате iCalendar (ICS).
+
+### Подписка
+
+Производственный календарь (праздники + переносы рабочих дней):
+
+- https://shulga-v.github.io/belarus-production-calendar/production.ics
+
+Календарь праздников:
+
+- https://shulga-v.github.io/belarus-production-calendar/holidays.ics
+
+### Как подключить в Google Calendar
+
+1. Откройте Google Calendar
+2. Нажмите "+" рядом с "Другие календари"
+3. Выберите "Добавить по URL"
+4. Вставьте ссылку на нужный календарь
+
+# Belarus Production Calendar
+
 Public production calendar of the Republic of Belarus in iCalendar (ICS) format.
 
 ## Calendars
