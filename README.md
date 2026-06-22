@@ -4,11 +4,29 @@
 
 Публичный производственный календарь Республики Беларусь в формате iCalendar (ICS).
 
-### Подписка
+### Календари
 
 - [production.ics](https://shulga-v.github.io/belarus-production-calendar/production.ics) — производственный календарь (праздники и переносы рабочих дней)
+- [holidays.ics](https://shulga-v.github.io/belarus-production-calendar/holidays.ics) — календарь праздничных дней
 
-- [holidays.ics](https://shulga-v.github.io/belarus-production-calendar/holidays.ics) — календарь праздников
+### Поддерживаемые приложения
+
+Календари можно использовать в:
+
+- Google Calendar
+- Microsoft Outlook
+- Apple Calendar
+- Любом приложении с поддержкой iCalendar (ICS)
+
+### Репозиторий
+
+Проект поддерживается сообществом.
+
+Источники данных:
+
+- Совет Министров Республики Беларусь
+- Официальные постановления о переносе рабочих дней
+- Официальные праздничные дни Республики Беларусь
 
 ### Как подключить в Google Calendar
 
@@ -17,16 +35,16 @@
 3. Выберите "Добавить по URL"
 4. Вставьте ссылку на нужный календарь
 
-# Belarus Production Calendar
+## English Version
 
 Public production calendar of the Republic of Belarus in iCalendar (ICS) format.
 
-## Calendars
+### Calendars
 
 - [production.ics](https://shulga-v.github.io/belarus-production-calendar/production.ics) — official public holidays and working day transfers
 - [holidays.ics](https://shulga-v.github.io/belarus-production-calendar/holidays.ics) — public holidays only
 
-## Subscribe
+### Subscribe
 
 The calendars can be imported into:
 
@@ -35,10 +53,19 @@ The calendars can be imported into:
 - Apple Calendar
 - Any application supporting iCalendar (ICS)
 
-## Repository
+### Repository
 
 Maintained by the community.
 
-Source:
+Data sources:
+
 - Council of Ministers of the Republic of Belarus
-- Official holiday and working day transfer resolutions
+- Official working day transfer resolutions
+- Official public holidays of the Republic of Belarus
+
+### How to add to Google Calendar
+
+1. Open Google Calendar
+2. Click "+" next to "Other calendars"
+3. Select "Add by URL"
+4. Paste the calendar URL
