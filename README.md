@@ -4,8 +4,8 @@ Public production calendar of the Republic of Belarus in iCalendar (ICS) format.
 
 ## Calendars
 
-- [production.ics](https://raw.githubusercontent.com/shulga-v/belarus-production-calendar/refs/heads/main/production.ics) — official public holidays and working day transfers
-- [holidays.ics](https://raw.githubusercontent.com/shulga-v/belarus-production-calendar/refs/heads/main/holidays.ics) — public holidays only
+- [production.ics](https://shulga-v.github.io/belarus-production-calendar/production.ics) — official public holidays and working day transfers
+- [holidays.ics](https://shulga-v.github.io/belarus-production-calendar/holidays.ics) — public holidays only
 
 ## Subscribe
 
