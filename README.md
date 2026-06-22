@@ -6,13 +6,9 @@
 
 ### Подписка
 
-Производственный календарь (праздники + переносы рабочих дней):
+- [production.ics](https://shulga-v.github.io/belarus-production-calendar/production.ics) — производственный календарь (праздники и переносы рабочих дней)
 
-- https://shulga-v.github.io/belarus-production-calendar/production.ics
-
-Календарь праздников:
-
-- https://shulga-v.github.io/belarus-production-calendar/holidays.ics
+- [holidays.ics](https://shulga-v.github.io/belarus-production-calendar/holidays.ics) — календарь праздников
 
 ### Как подключить в Google Calendar
 
